@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+langchain_community
+langchain-groq==0.1.5
+langchain-experimental==0.0.61
